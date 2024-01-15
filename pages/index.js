@@ -256,55 +256,55 @@ const HardwareComponent = ( ) => (
       <Title>Hardware</Title>
       <Flex gap="middle" vertical>
         <Image
-          src="/h1.png"
+          src="h1.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h2.png"
+          src="h2.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h3.png"
+          src="h3.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h4.png"
+          src="h4.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h5.png"
+          src="h5.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h6.png"
+          src="h6.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h7.png"
+          src="h7.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h8.png"
+          src="h8.png"
           alt="Image description"
           width={500} 
           height={500}
         />
         <Image
-          src="/h9.png"
+          src="h9.png"
           alt="Image description"
           width={500} 
           height={500}
