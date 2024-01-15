@@ -195,7 +195,7 @@ const ProjectDetail = () => (
       <Title>Block Diagram</Title>
       <div>
         <Image
-          src="/block-diagram.png" 
+          src="block-diagram.png" 
           alt="Description of the image"
           width={500} 
           height={500}
